@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1463178324 source:c:\users\jimin wen\desktop\software\part2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<omp.h>
+	<assert.h>
+	<math.h>
+	"tri.h"
+
+1463176905 c:\users\jimin wen\desktop\software\part2\tri.h
+	<algorithm>
+	<memory>
+	<iostream>
+	<vector>
+
+1463178324 source:c:\users\jimin wen\desktop\4230449_jimin_wen\part2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<omp.h>
+	<assert.h>
+	<math.h>
+	"tri.h"
+
+1463176905 c:\users\jimin wen\desktop\4230449_jimin_wen\part2\tri.h
+	<algorithm>
+	<memory>
+	<iostream>
+	<vector>
+

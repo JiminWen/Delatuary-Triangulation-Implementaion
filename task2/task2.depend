@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456072115 source:c:\users\jimin wen\desktop\software\task2\main.cpp
+	<iostream>
+	<sys/time.h>
+
+1463178645 source:c:\users\jimin wen\desktop\software\task2\task2.cpp
+	<iostream>
+	<sys/time.h>
+
+1463178645 source:c:\users\jimin wen\desktop\4230449_jimin_wen\task2\task2.cpp
+	<iostream>
+	<sys/time.h>
+

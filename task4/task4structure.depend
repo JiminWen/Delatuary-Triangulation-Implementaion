@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1463095021 source:c:\users\jimin wen\desktop\software\task4structure\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<omp.h>
+
+1463178757 source:c:\users\jimin wen\desktop\4230449_jimin_wen\task4\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<omp.h>
+
